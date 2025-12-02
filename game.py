@@ -5,7 +5,6 @@ from core.sound import load_sound, play_music, stop_music
 from scenes.gameplay import GamePlayScene
 from scenes.gameover import GameOverScene
 
-
 class Game:
     def __init__(self):
         pygame.init()

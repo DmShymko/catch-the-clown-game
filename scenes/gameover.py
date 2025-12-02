@@ -1,6 +1,5 @@
 import pygame
 
-
 class GameOverScene:
     def __init__(self, font, colors, screen_rect):
         blue, yellow = colors
